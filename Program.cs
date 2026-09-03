@@ -1,4 +1,4 @@
-﻿namespace Ejercicios_POO
+﻿amespace Ejercicios_POO
 {
     internal class Program
     {
